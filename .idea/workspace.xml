@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e907e8d6-7adc-4441-9afb-e8bee7a9a13b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spec/factories/users.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/todos-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/todos-api.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/concerns/exception_handler.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/concerns/exception_handler.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/rails_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/rails_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/todos_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/todos_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/requests/items_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/requests/items_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/requests/todos_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/requests/todos_spec.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +153,7 @@
       <updated>1582100293697</updated>
       <workItem from="1582100298064" duration="8803000" />
       <workItem from="1582119997062" duration="2943000" />
-      <workItem from="1582135222774" duration="3214000" />
+      <workItem from="1582135222774" duration="8719000" />
     </task>
     <servers />
   </component>
@@ -167,9 +165,13 @@
       <screen x="1680" y="23" width="1280" height="1001" />
     </state>
     <state x="2069" y="323" key="#com.intellij.fileTypes.FileTypeChooser/1680.23.1280.1001/0.23.1680.961@1680.23.1280.1001" timestamp="1582138772359" />
-    <state x="1985" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1582136044308">
+    <state x="1990" y="135" width="659" height="777" key="find.popup" timestamp="1582151097871">
       <screen x="1680" y="23" width="1280" height="1001" />
     </state>
-    <state x="1985" y="244" width="670" height="676" key="search.everywhere.popup/1680.23.1280.1001/0.23.1680.961@1680.23.1280.1001" timestamp="1582136044308" />
+    <state x="1990" y="135" width="659" height="777" key="find.popup/1680.23.1280.1001/0.23.1680.961@1680.23.1280.1001" timestamp="1582151097871" />
+    <state x="1985" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1582140382308">
+      <screen x="1680" y="23" width="1280" height="1001" />
+    </state>
+    <state x="1985" y="244" width="670" height="676" key="search.everywhere.popup/1680.23.1280.1001/0.23.1680.961@1680.23.1280.1001" timestamp="1582140382308" />
   </component>
 </project>
