@@ -8,7 +8,7 @@ gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # bcrypt() is a sophisticated and secure hash algorithm designed by The OpenBSD project for hashing passwords.
 gem 'bcrypt', '~> 3.1', '>= 3.1.13'
 # A pure ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
